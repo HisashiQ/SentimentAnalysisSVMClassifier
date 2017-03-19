@@ -1,0 +1,17 @@
+Coursework
+*.zip
+activate
+oldClassifier.py
+partOne.txt
+results.txt
+smallSample.csv
+smallHappySample.csv
+test.py
+*.txt
+bin
+include
+lib
+oldstuff
+results
+.DS_Store
+.Python
